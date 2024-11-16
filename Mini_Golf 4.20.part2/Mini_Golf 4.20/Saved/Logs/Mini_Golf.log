@@ -1,0 +1,1166 @@
+﻿Log file open, 05/29/22 01:04:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Mini_Golf
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.052552
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.078s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: 12th Gen Intel(R) Core(TM) i7-12700K, GPU: NVIDIA GeForce RTX 3070 Ti
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2022.05.28-23.04.10:980][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.28-23.04.10:980][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.05.28-23.04.10:985][  0]LogHAL: Display: Platform has ~ 32 GB [34088554496 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.28-23.04.10:985][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2022.05.28-23.04.10:986][  0]LogInit: Going up to parent DeviceProfile []
+[2022.05.28-23.04.10:986][  0]LogInit: Computer: DESKTOP-P91QD9T
+[2022.05.28-23.04.10:986][  0]LogInit: User: Daniele
+[2022.05.28-23.04.10:986][  0]LogInit: CPU Page size=4096, Cores=12
+[2022.05.28-23.04.10:986][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.28-23.04.10:986][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2022.05.28-23.04.10:986][  0]LogMemory: Platform Memory Stats for Windows
+[2022.05.28-23.04.10:986][  0]LogMemory: Process Physical Memory: 103.56 MB used, 103.57 MB peak
+[2022.05.28-23.04.10:986][  0]LogMemory: Process Virtual Memory: 92.09 MB used, 92.09 MB peak
+[2022.05.28-23.04.10:986][  0]LogMemory: Physical Memory: 8087.89 MB used,  24421.49 MB free, 32509.38 MB total
+[2022.05.28-23.04.10:986][  0]LogMemory: Virtual Memory: 4680.36 MB used,  24421.49 MB free, 134217728.00 MB total
+[2022.05.28-23.04.11:103][  0]LogInit: Using OS detected language (it-IT).
+[2022.05.28-23.04.11:103][  0]LogInit: Using OS detected locale (it-IT).
+[2022.05.28-23.04.11:105][  0]LogTextLocalizationManager: No specific localization for 'it-IT' exists, so the 'it' localization will be used.
+[2022.05.28-23.04.11:109][  0]LogStreaming: Display: Took  0.005s to InitEngineTextLocalization.
+[2022.05.28-23.04.11:109][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.28-23.04.11:137][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.28-23.04.11:137][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.28-23.04.11:339][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.28-23.04.11:340][  0]LogD3D11RHI: D3D11 adapters:
+[2022.05.28-23.04.11:402][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070 Ti' (Feature Level 11_0)
+[2022.05.28-23.04.11:402][  0]LogD3D11RHI:       8041/0/16254 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.05.28-23.04.11:403][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.05.28-23.04.11:403][  0]LogD3D11RHI:       0/0/16254 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.05.28-23.04.11:403][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.05.28-23.04.11:408][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.05.28-23.04.11:408][  0]LogD3D11RHI:     GPU DeviceId: 0x2482 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.28-23.04.11:408][  0]LogWindows: EnumDisplayDevices:
+[2022.05.28-23.04.11:408][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070 Ti' (P:1 D:1)
+[2022.05.28-23.04.11:409][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070 Ti' (P:0 D:1)
+[2022.05.28-23.04.11:409][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070 Ti' (P:0 D:0)
+[2022.05.28-23.04.11:409][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070 Ti' (P:0 D:0)
+[2022.05.28-23.04.11:409][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.05.28-23.04.11:409][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070 Ti
+[2022.05.28-23.04.11:409][  0]LogD3D11RHI:   Driver Version: 512.95 (internal:30.0.15.1295, unified:512.95)
+[2022.05.28-23.04.11:409][  0]LogD3D11RHI:      Driver Date: 5-19-2022
+[2022.05.28-23.04.11:409][  0]LogRHI: Texture pool is 5628 MB (70% of 8041 MB)
+[2022.05.28-23.04.11:452][  0]LogD3D11RHI: Async texture creation enabled
+[2022.05.28-23.04.11:467][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.05.28-23.04.11:470][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Intermediate/Shaders/WorkingDirectory/11632/).
+[2022.05.28-23.04.11:470][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Daniele/AppData/Local/Temp/UnrealShaderWorkingDir/341510BE4A3395E2D7D3D7A029EB9F62/'.
+[2022.05.28-23.04.11:690][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2022.05.28-23.04.11:701][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2022.05.28-23.04.11:711][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2022.05.28-23.04.11:721][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2022.05.28-23.04.11:732][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2022.05.28-23.04.11:743][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2022.05.28-23.04.11:754][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2022.05.28-23.04.11:764][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2022.05.28-23.04.11:771][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2022.05.28-23.04.11:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.28-23.04.11:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.28-23.04.11:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.28-23.04.11:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.28-23.04.11:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.28-23.04.11:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.28-23.04.11:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.28-23.04.11:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.28-23.04.11:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.28-23.04.11:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.28-23.04.11:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.28-23.04.11:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.28-23.04.11:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.28-23.04.11:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.28-23.04.11:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.28-23.04.11:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.28-23.04.11:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.28-23.04.11:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.28-23.04.11:822][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2022.05.28-23.04.11:878][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2022.05.28-23.04.11:878][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2022.05.28-23.04.11:892][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2022.05.28-23.04.11:892][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2022.05.28-23.04.11:902][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2022.05.28-23.04.11:911][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2022.05.28-23.04.11:920][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2022.05.28-23.04.11:930][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2022.05.28-23.04.11:938][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2022.05.28-23.04.11:938][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.05.28-23.04.12:078][  0]LogXGEController: Cleaning working directory: C:/Users/Daniele/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.05.28-23.04.12:078][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.05.28-23.04.12:078][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.05.28-23.04.12:078][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.05.28-23.04.12:630][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.05.28-23.04.12:713][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Daniele/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2022.05.28-23.04.12:713][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Daniele/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2022.05.28-23.04.12:714][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.28-23.04.12:714][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.05.28-23.04.12:714][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.28-23.04.12:714][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.05.28-23.04.12:724][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.05.28-23.04.12:736][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Daniele/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.28-23.04.12:736][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.28-23.04.12:736][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.05.28-23.04.12:746][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.05.28-23.04.12:748][  0]LogSlate: Using FreeType 2.6.0
+[2022.05.28-23.04.12:749][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.28-23.04.12:839][  0]LogAssetRegistry: FAssetRegistry took 0.0236 seconds to start up
+[2022.05.28-23.04.13:028][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.28-23.04.13:171][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2022.05.28-23.04.13:187][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2022.05.28-23.04.13:187][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.28-23.04.13:187][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.28-23.04.13:187][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2022.05.28-23.04.13:203][  0]LogNetVersion: Mini_Golf 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1845432447)
+[2022.05.28-23.04.13:756][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.258130 seconds
+[2022.05.28-23.04.13:760][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2022.05.28-23.04.13:760][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2022.05.28-23.04.13:760][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.28-23.04.14:975][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.28-23.04.14:992][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.28-23.04.15:196][  0]SourceControl: Source control is disabled
+[2022.05.28-23.04.15:196][  0]SourceControl: Source control is disabled
+[2022.05.28-23.04.15:206][  0]SourceControl: Source control is disabled
+[2022.05.28-23.04.15:211][  0]SourceControl: Source control is disabled
+[2022.05.28-23.04.15:513][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.28-23.04.15:582][  0]LogOcInput: OculusInput pre-init called
+[2022.05.28-23.04.15:646][  0]LogEngine: Initializing Engine...
+[2022.05.28-23.04.15:646][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.28-23.04.15:647][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2022.05.28-23.04.15:647][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.05.28-23.04.15:647][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2022.05.28-23.04.15:647][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.05.28-23.04.15:758][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.28-23.04.15:776][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.28-23.04.15:793][  0]LogInit: XAudio2 using 'Altoparlanti (Turtle Beach P11 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.05.28-23.04.15:801][  0]LogInit: FAudioDevice initialized.
+[2022.05.28-23.04.15:801][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.28-23.04.15:829][  0]LogDerivedDataCache: Saved boot cache 0.03s 71MB C:/Users/Daniele/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2022.05.28-23.04.15:831][  0]LogInit: Texture streaming: Enabled
+[2022.05.28-23.04.15:853][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.28-23.04.15:865][  0]LogInit: Transaction tracking system initialized
+[2022.05.28-23.04.15:900][  0]BlueprintLog: New page: Editor Load
+[2022.05.28-23.04.16:065][  0]LocalizationService: Localization service is disabled
+[2022.05.28-23.04.16:298][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.05.28-23.04.16:298][  0]LogCook: Display: Mobile HDR setting 1
+[2022.05.28-23.04.16:298][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2022.05.28-23.04.16:298][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2022.05.28-23.04.16:298][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.05.28-23.04.16:298][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2022.05.28-23.04.16:298][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.05.28-23.04.16:492][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Content/' took 0.01s
+[2022.05.28-23.04.16:492][  0]SourceControl: Source control is disabled
+[2022.05.28-23.04.16:492][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Content/Mini_Golf/Levels/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.28-23.04.16:493][  0]LightingResults: New page: Lighting Build
+[2022.05.28-23.04.16:495][  0]MapCheck: New page: Map Check
+[2022.05.28-23.04.16:495][  0]LightingResults: New page: Lighting Build
+[2022.05.28-23.04.17:328][  0]LogAIModule: Creating AISystem for world Overview
+[2022.05.28-23.04.17:342][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.28-23.04.17:369][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.28-23.04.17:430][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60,32ms to complete.
+[2022.05.28-23.04.17:430][  0]LogFileHelpers: Loading map 'Overview' took 0.937
+[2022.05.28-23.04.17:522][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.28-23.04.17:527][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.28-23.04.17:531][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.28-23.04.17:534][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.28-23.04.17:544][  0]LogCollectionManager: Loaded 0 collections in 0.000972 seconds
+[2022.05.28-23.04.17:584][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/Collections/' took 0.01s
+[2022.05.28-23.04.17:584][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Content/Developers/Daniele/Collections/' took 0.01s
+[2022.05.28-23.04.17:584][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Content/Collections/' took 0.01s
+[2022.05.28-23.04.17:584][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2022.05.28-23.04.17:590][  0]LogContentBrowser: Native class hierarchy populated in 0.0055 seconds. Added 2572 classes and 603 folders.
+[2022.05.28-23.04.17:595][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2022.05.28-23.04.17:668][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2022.05.28-23.04.17:677][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2022.05.28-23.04.17:697][  0]LogSlate: Took 0.000538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.28-23.04.17:698][  0]LogSlate: Took 0.000583 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.28-23.04.17:702][  0]LogSlate: Took 0.000455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.28-23.04.17:748][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2022.05.28-23.04.17:842][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.05.28-23.04.17:842][  0]LogLoad: (Engine Initialization) Total time: 10.12 seconds
+[2022.05.28-23.04.17:842][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.28-23.04.17:869][  0]LogAssetRegistry: Asset discovery search completed in 5.0519 seconds
+[2022.05.28-23.04.17:870][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2022.05.28-23.04.17:870][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000034 seconds (updated 0 objects)
+[2022.05.28-23.04.17:872][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.28-23.04.17:888][  0]LogSlate: Took 0.000680 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.28-23.04.18:841][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.28-23.04.24:367][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lighthouse_Part_3)
+[2022.05.28-23.04.25:432][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.28-23.04.25:727][813]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.28-23.04.25:730][813]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Mini_Golf/Meshes/Components/SM_Lighthouse_Part_2.SM_Lighthouse_Part_2
+[2022.05.28-23.04.26:039][813]LogSlate: Took 0.000660 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.28-23.04.29:083][130]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:302).
+[2022.05.28-23.04.38:584][258]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/SM_Lighthouse_Part_21C57740943041FDF8B5991B5BC40F0FB.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Content/Mini_Golf/Meshes/Components/SM_Lighthouse_Part_2.uasset'
+[2022.05.28-23.04.40:387][474]LogSlate: Window 'SM_Lighthouse_Part_2' being destroyed
+[2022.05.28-23.11.42:754][135]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.28-23.11.53:843][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.28-23.11.55:373][646]LogEditorFactories: Performing atomic reimport of [E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/Texture/T_Bowling_Castle_D.png]
+[2022.05.28-23.11.55:399][646]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/Texture/T_Bowling_Castle_D.png)
+[2022.05.28-23.11.55:706][646]LogTexture: Display: Building textures: T_Bowling_Castle_D (AutoDXT, 4096X4096)
+[2022.05.28-23.11.56:425][646]LogEditorFactories: -- imported successfully
+[2022.05.28-23.11.56:456][646]LogEditorFactories: Performing atomic reimport of [E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/Texture/T_Bowling_Castle_M.png]
+[2022.05.28-23.11.56:485][646]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/Texture/T_Bowling_Castle_M.png)
+[2022.05.28-23.11.56:844][646]LogTexture: Display: Building textures: T_Bowling_Castle_M (AutoDXT, 4096X4096)
+[2022.05.28-23.11.57:824][646]LogEditorFactories: -- imported successfully
+[2022.05.28-23.11.57:856][646]LogEditorFactories: Performing atomic reimport of [E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/Texture/T_Bowling_Castle_N.png]
+[2022.05.28-23.11.57:894][646]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/Texture/T_Bowling_Castle_N.png)
+[2022.05.28-23.11.58:274][646]LogTexture: Display: Building textures: T_Bowling_Castle_N (BC5, 4096X4096)
+[2022.05.28-23.11.58:662][646]LogEditorFactories: -- imported successfully
+[2022.05.28-23.12.19:577][701]LogEditorViewport: Clicking on Actor (LMB): BP_Lighthouse_C (BP_Lighthouse)
+[2022.05.28-23.12.21:278][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.28-23.12.27:187][575]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Mini_Golf/Meshes/Components/SM_Lighthouse_Part_1.SM_Lighthouse_Part_1
+[2022.05.28-23.14.30:295][364]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Mini_Golf/Levels/Overview' took 0.029
+[2022.05.28-23.14.30:298][364]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mini_Golf/Texture/T_Bowling_Castle_D] ([1] browsable assets)...
+[2022.05.28-23.14.30:303][364]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Mini_Golf/Texture/T_Bowling_Castle_D.T_Bowling_Castle_D]
+[2022.05.28-23.14.30:303][364]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mini_Golf/Texture/T_Bowling_Castle_D]
+[2022.05.28-23.14.30:371][364]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/T_Bowling_Castle_D_Auto1DAD906F147F26A9C34FC409E7997CB4E.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/Autosaves/Game/Mini_Golf/Texture/T_Bowling_Castle_D_Auto1.uasset'
+[2022.05.28-23.14.30:373][364]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mini_Golf/Texture/T_Bowling_Castle_M] ([1] browsable assets)...
+[2022.05.28-23.14.30:380][364]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Mini_Golf/Texture/T_Bowling_Castle_M.T_Bowling_Castle_M]
+[2022.05.28-23.14.30:380][364]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mini_Golf/Texture/T_Bowling_Castle_M]
+[2022.05.28-23.14.30:449][364]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/T_Bowling_Castle_M_Auto1BE554D56454C154C32525487B0A0A91C.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/Autosaves/Game/Mini_Golf/Texture/T_Bowling_Castle_M_Auto1.uasset'
+[2022.05.28-23.14.30:450][364]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mini_Golf/Texture/T_Bowling_Castle_N] ([1] browsable assets)...
+[2022.05.28-23.14.30:454][364]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Mini_Golf/Texture/T_Bowling_Castle_N.T_Bowling_Castle_N]
+[2022.05.28-23.14.30:454][364]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mini_Golf/Texture/T_Bowling_Castle_N]
+[2022.05.28-23.14.30:535][364]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/T_Bowling_Castle_N_Auto17174A9CC45992262118C9B8F069EC4E8.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/Autosaves/Game/Mini_Golf/Texture/T_Bowling_Castle_N_Auto1.uasset'
+[2022.05.28-23.14.30:536][364]LogFileHelpers: Auto-saving content packages took 0.239
+[2022.05.28-23.16.04:774][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.28-23.16.38:384][693]LogEditorFactories: Performing atomic reimport of [E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/Texture/T_Lighthouse_D.png]
+[2022.05.28-23.16.38:404][693]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/Texture/T_Lighthouse_D.png)
+[2022.05.28-23.16.38:669][693]LogTexture: Display: Building textures: T_Lighthouse_D (AutoDXT, 4096X4096)
+[2022.05.28-23.16.39:316][693]LogEditorFactories: -- imported successfully
+[2022.05.28-23.16.39:341][693]LogEditorFactories: Performing atomic reimport of [E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/Texture/T_Lighthouse_M.png]
+[2022.05.28-23.16.39:363][693]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/Texture/T_Lighthouse_M.png)
+[2022.05.28-23.16.39:671][693]LogTexture: Display: Building textures: T_Lighthouse_M (AutoDXT, 4096X4096)
+[2022.05.28-23.16.40:483][693]LogEditorFactories: -- imported successfully
+[2022.05.28-23.16.40:510][693]LogEditorFactories: Performing atomic reimport of [E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/Texture/T_Lighthouse_N.png]
+[2022.05.28-23.16.40:544][693]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/Texture/T_Lighthouse_N.png)
+[2022.05.28-23.16.40:894][693]LogTexture: Display: Building textures: T_Lighthouse_N (BC5, 4096X4096)
+[2022.05.28-23.16.41:232][693]LogEditorFactories: -- imported successfully
+[2022.05.28-23.17.24:533][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.28-23.17.25:591][858]LogSlate: Window 'Save Content' being destroyed
+[2022.05.28-23.17.26:670][858]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/T_Bowling_Castle_D7FD019E445FAC2A3899334970980F536.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Content/Mini_Golf/Texture/T_Bowling_Castle_D.uasset'
+[2022.05.28-23.17.27:920][858]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/T_Bowling_Castle_M9E80A3164716C2BFE49C838F3DBBEA42.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Content/Mini_Golf/Texture/T_Bowling_Castle_M.uasset'
+[2022.05.28-23.17.29:697][858]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/T_Bowling_Castle_N4FD6FB4E4AE859DB2CC0BCB80C25723F.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Content/Mini_Golf/Texture/T_Bowling_Castle_N.uasset'
+[2022.05.28-23.17.30:671][858]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/T_Lighthouse_D7A6E69AD44726C2948EB1CB452E36931.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Content/Mini_Golf/Texture/T_Lighthouse_D.uasset'
+[2022.05.28-23.17.31:799][858]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/T_Lighthouse_M0DD491F04C2DBA3CA85EF2AEDF6CEAA3.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Content/Mini_Golf/Texture/T_Lighthouse_M.uasset'
+[2022.05.28-23.17.33:374][858]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/T_Lighthouse_NA93D1BB2403D34B83AFE4B9889A7F166.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Content/Mini_Golf/Texture/T_Lighthouse_N.uasset'
+[2022.05.28-23.17.44:197][131]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Mini_Golf/Meshes/Components/SM_Tube_X1.SM_Tube_X1
+[2022.05.28-23.23.35:757][464]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.28-23.23.39:570][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.05.28-23.23.40:177][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.05.28-23.23.40:693][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wood_Obstacle)
+[2022.05.28-23.23.42:268][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.28-23.23.47:466][828]LogAssetEditorManager: Opening Asset editor for Material /Game/Mini_Golf/Materials/M_Pyramid_Metal_Wood_Obstacle_Base.M_Pyramid_Metal_Wood_Obstacle_Base
+[2022.05.28-23.23.47:478][828]LogMaterial: Display: Missing cached shader map for material M_Pyramid_Metal_Wood_Obstacle_Base, compiling. 
+[2022.05.28-23.23.47:538][828]LogMaterial: Display: Missing cached shader map for material M_Pyramid_Metal_Wood_Obstacle_Base, compiling. 
+[2022.05.28-23.23.47:545][828]LogMaterial: Display: Missing cached shader map for material M_Pyramid_Metal_Wood_Obstacle_Base, compiling. 
+[2022.05.28-23.23.47:570][828]LogShaderCompilers: Display: Shaders left to compile 21
+[2022.05.28-23.23.47:570][828]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.05.28-23.23.47:570][828]LogShaderCompilers: Display: Shaders left to compile 19
+[2022.05.28-23.23.47:570][828]LogShaderCompilers: Display: Shaders left to compile 18
+[2022.05.28-23.23.47:570][828]LogShaderCompilers: Display: Shaders left to compile 17
+[2022.05.28-23.23.47:570][828]LogShaderCompilers: Display: Shaders left to compile 16
+[2022.05.28-23.23.47:570][828]LogShaderCompilers: Display: Shaders left to compile 15
+[2022.05.28-23.23.47:570][828]LogShaderCompilers: Display: Shaders left to compile 14
+[2022.05.28-23.23.47:570][828]LogShaderCompilers: Display: Shaders left to compile 13
+[2022.05.28-23.23.47:570][828]LogShaderCompilers: Display: Shaders left to compile 12
+[2022.05.28-23.23.47:570][828]LogShaderCompilers: Display: Shaders left to compile 11
+[2022.05.28-23.23.47:570][828]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.05.28-23.23.47:570][828]LogShaderCompilers: Display: Shaders left to compile 9
+[2022.05.28-23.23.47:570][828]LogShaderCompilers: Display: Shaders left to compile 8
+[2022.05.28-23.23.47:570][828]LogShaderCompilers: Display: Shaders left to compile 7
+[2022.05.28-23.23.47:570][828]LogShaderCompilers: Display: Shaders left to compile 6
+[2022.05.28-23.23.47:581][828]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2022.05.28-23.23.47:583][828]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2022.05.28-23.23.47:585][828]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.05.28-23.23.47:586][828]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.05.28-23.23.47:588][828]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2022.05.28-23.23.47:590][828]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2022.05.28-23.23.47:592][828]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2022.05.28-23.23.47:594][828]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2022.05.28-23.23.47:596][828]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2022.05.28-23.23.47:627][828]LogSlate: Took 0.016403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.28-23.23.48:855][962]LogShaderCompilers: Display: Shaders left to compile 23
+[2022.05.28-23.23.48:948][973]LogShaderCompilers: Display: Shaders left to compile 22
+[2022.05.28-23.23.49:055][985]LogShaderCompilers: Display: Shaders left to compile 21
+[2022.05.28-23.23.49:142][995]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.05.28-23.23.49:151][996]LogShaderCompilers: Display: Shaders left to compile 19
+[2022.05.28-23.23.49:202][  2]LogShaderCompilers: Display: Shaders left to compile 18
+[2022.05.28-23.23.49:202][  2]LogShaderCompilers: Display: Shaders left to compile 17
+[2022.05.28-23.23.49:279][ 11]LogShaderCompilers: Display: Shaders left to compile 16
+[2022.05.28-23.23.49:279][ 11]LogShaderCompilers: Display: Shaders left to compile 15
+[2022.05.28-23.23.49:279][ 11]LogShaderCompilers: Display: Shaders left to compile 14
+[2022.05.28-23.23.49:287][ 12]LogShaderCompilers: Display: Shaders left to compile 13
+[2022.05.28-23.23.49:737][ 64]LogShaderCompilers: Display: Shaders left to compile 12
+[2022.05.28-23.23.49:737][ 64]LogShaderCompilers: Display: Shaders left to compile 11
+[2022.05.28-23.23.49:764][ 67]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.05.28-23.23.49:772][ 68]LogShaderCompilers: Display: Shaders left to compile 9
+[2022.05.28-23.23.49:790][ 70]LogShaderCompilers: Display: Shaders left to compile 8
+[2022.05.28-23.23.49:800][ 71]LogShaderCompilers: Display: Shaders left to compile 7
+[2022.05.28-23.23.49:800][ 71]LogShaderCompilers: Display: Shaders left to compile 6
+[2022.05.28-23.23.49:813][ 72]LogShaderCompilers: Display: Shaders left to compile 5
+[2022.05.28-23.23.49:865][ 78]LogShaderCompilers: Display: Shaders left to compile 4
+[2022.05.28-23.23.49:976][ 91]LogShaderCompilers: Display: Shaders left to compile 3
+[2022.05.28-23.23.50:143][111]LogShaderCompilers: Display: Shaders left to compile 2
+[2022.05.28-23.23.50:168][114]LogShaderCompilers: Display: Shaders left to compile 1
+[2022.05.28-23.23.50:296][129]MaterialEditorStats: Base pass shader: 123 instructions
+[2022.05.28-23.23.50:296][129]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 199 instructions
+[2022.05.28-23.23.50:296][129]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2022.05.28-23.23.50:296][129]MaterialEditorStats: Texture samplers: 9/16
+[2022.05.28-23.23.50:296][129]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2022.05.28-23.23.50:296][129]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.28-23.32.13:162][948]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Mini_Golf/Meshes/Components/SM_Wood_Obstacle.SM_Wood_Obstacle
+[2022.05.28-23.32.16:005][252]LogEditorFactories: Performing atomic reimport of [E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/FBX/Props/SM_Wood_Obstacle.fbx]
+[2022.05.28-23.32.16:032][252]LogFbx: Loading FBX Scene from E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/FBX/Props/SM_Wood_Obstacle.fbx
+[2022.05.28-23.32.16:039][252]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.28-23.32.16:046][252]LogFbx: Warning: Triangulating static mesh WOOD
+[2022.05.28-23.32.16:057][252]LogFbx: Warning: Triangulating mesh UCX_WOOD for collision model
+[2022.05.28-23.32.16:097][252]LogStaticMesh: Building static mesh SM_Wood_Obstacle...
+[2022.05.28-23.32.16:108][252]LogStaticMesh: Built static mesh [0.01s] /Game/Mini_Golf/Meshes/Components/SM_Wood_Obstacle.SM_Wood_Obstacle
+[2022.05.28-23.32.17:526][252]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2022.05.28-23.32.17:540][252]LogEditorFactories: -- imported successfully
+[2022.05.28-23.32.34:522][249]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.28-23.32.46:874][728]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.28-23.33.23:014][192]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/Overview_Auto22A7D4DC94DC58EB7334672A7CA5C36CB.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/Autosaves/Game/Mini_Golf/Levels/Overview_Auto2.umap'
+[2022.05.28-23.33.23:016][192]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Mini_Golf/Levels/Overview' took 0.071
+[2022.05.28-23.33.23:016][192]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.071
+[2022.05.28-23.33.23:017][192]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mini_Golf/Meshes/Components/SM_Wood_Obstacle] ([1] browsable assets)...
+[2022.05.28-23.33.23:026][192]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mini_Golf/Meshes/Components/SM_Wood_Obstacle.SM_Wood_Obstacle]
+[2022.05.28-23.33.23:026][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mini_Golf/Meshes/Components/SM_Wood_Obstacle]
+[2022.05.28-23.33.23:045][192]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/SM_Wood_Obstacle_Auto23710C16440FE9946A5DD3BA60DD94A19.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/Autosaves/Game/Mini_Golf/Meshes/Components/SM_Wood_Obstacle_Auto2.uasset'
+[2022.05.28-23.33.23:046][192]LogFileHelpers: Auto-saving content packages took 0.029
+[2022.05.28-23.41.22:476][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.28-23.41.28:320][473]LogEditorFactories: Performing atomic reimport of [E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/Texture/T_Pyramid_Metal_Wood_Obstacle_D.png]
+[2022.05.28-23.41.28:341][473]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/Texture/T_Pyramid_Metal_Wood_Obstacle_D.png)
+[2022.05.28-23.41.28:650][473]LogTexture: Display: Building textures: T_Pyramid_Metal_Wood_Obstacle_D (AutoDXT, 4096X4096)
+[2022.05.28-23.41.29:413][473]LogEditorFactories: -- imported successfully
+[2022.05.28-23.41.29:442][473]LogEditorFactories: Performing atomic reimport of [E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/Texture/T_Pyramid_Metal_Wood_Obstacle_M.png]
+[2022.05.28-23.41.29:500][473]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/Texture/T_Pyramid_Metal_Wood_Obstacle_M.png)
+[2022.05.28-23.41.29:779][473]LogTexture: Display: Building textures: T_Pyramid_Metal_Wood_Obstacle_M (AutoDXT, 4096X4096)
+[2022.05.28-23.41.30:649][473]LogEditorFactories: -- imported successfully
+[2022.05.28-23.41.30:679][473]LogEditorFactories: Performing atomic reimport of [E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/Texture/T_Pyramid_Metal_Wood_Obstacle_N.png]
+[2022.05.28-23.41.30:699][473]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/Texture/T_Pyramid_Metal_Wood_Obstacle_N.png)
+[2022.05.28-23.41.30:996][473]LogTexture: Display: Building textures: T_Pyramid_Metal_Wood_Obstacle_N (BC5, 4096X4096)
+[2022.05.28-23.41.31:353][473]LogEditorFactories: -- imported successfully
+[2022.05.28-23.41.48:324][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.28-23.41.48:441][489]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/SM_Wood_ObstacleD72862CC4D82DF88DD1428AF013A4375.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Content/Mini_Golf/Meshes/Components/SM_Wood_Obstacle.uasset'
+[2022.05.28-23.42.15:206][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tube_X3)
+[2022.05.28-23.43.23:409][197]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Mini_Golf/Levels/Overview' took 0.021
+[2022.05.28-23.43.23:410][197]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mini_Golf/Texture/T_Pyramid_Metal_Wood_Obstacle_D] ([1] browsable assets)...
+[2022.05.28-23.43.23:423][197]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Mini_Golf/Texture/T_Pyramid_Metal_Wood_Obstacle_D.T_Pyramid_Metal_Wood_Obstacle_D]
+[2022.05.28-23.43.23:423][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mini_Golf/Texture/T_Pyramid_Metal_Wood_Obstacle_D]
+[2022.05.28-23.43.23:494][197]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/T_Pyramid_Metal_Wood_Obstacle_D_65C398274CDDD0E45221889D86EB032B.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/Autosaves/Game/Mini_Golf/Texture/T_Pyramid_Metal_Wood_Obstacle_D_Auto3.uasset'
+[2022.05.28-23.43.23:495][197]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mini_Golf/Texture/T_Pyramid_Metal_Wood_Obstacle_M] ([1] browsable assets)...
+[2022.05.28-23.43.23:499][197]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Mini_Golf/Texture/T_Pyramid_Metal_Wood_Obstacle_M.T_Pyramid_Metal_Wood_Obstacle_M]
+[2022.05.28-23.43.23:499][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mini_Golf/Texture/T_Pyramid_Metal_Wood_Obstacle_M]
+[2022.05.28-23.43.23:559][197]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/T_Pyramid_Metal_Wood_Obstacle_M_BAEE1EC046D737064B2E6F9B5232A0DE.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/Autosaves/Game/Mini_Golf/Texture/T_Pyramid_Metal_Wood_Obstacle_M_Auto3.uasset'
+[2022.05.28-23.43.23:560][197]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mini_Golf/Texture/T_Pyramid_Metal_Wood_Obstacle_N] ([1] browsable assets)...
+[2022.05.28-23.43.23:564][197]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Mini_Golf/Texture/T_Pyramid_Metal_Wood_Obstacle_N.T_Pyramid_Metal_Wood_Obstacle_N]
+[2022.05.28-23.43.23:564][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mini_Golf/Texture/T_Pyramid_Metal_Wood_Obstacle_N]
+[2022.05.28-23.43.23:623][197]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/T_Pyramid_Metal_Wood_Obstacle_N_9351F8C34A52AD7CDF0C48971A7C454A.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/Autosaves/Game/Mini_Golf/Texture/T_Pyramid_Metal_Wood_Obstacle_N_Auto3.uasset'
+[2022.05.28-23.43.23:624][197]LogFileHelpers: Auto-saving content packages took 0.214
+[2022.05.28-23.47.41:591][968]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.28-23.47.46:579][530]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Mini_Golf/Materials/MI_Components_Tubes.MI_Components_Tubes
+[2022.05.28-23.47.48:051][695]LogAssetEditorManager: Opening Asset editor for Material /Game/Mini_Golf/Materials/M_Components_Tubes_Base.M_Components_Tubes_Base
+[2022.05.28-23.47.48:052][695]LogMaterial: Display: Missing cached shader map for material M_Components_Tubes_Base, compiling. 
+[2022.05.28-23.47.48:090][695]LogMaterial: Display: Missing cached shader map for material M_Components_Tubes_Base, compiling. 
+[2022.05.28-23.47.48:097][695]LogMaterial: Display: Missing cached shader map for material M_Components_Tubes_Base, compiling. 
+[2022.05.28-23.47.48:120][695]LogShaderCompilers: Display: Shaders left to compile 21
+[2022.05.28-23.47.48:120][695]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.05.28-23.47.48:120][695]LogShaderCompilers: Display: Shaders left to compile 19
+[2022.05.28-23.47.48:120][695]LogShaderCompilers: Display: Shaders left to compile 18
+[2022.05.28-23.47.48:120][695]LogShaderCompilers: Display: Shaders left to compile 17
+[2022.05.28-23.47.48:120][695]LogShaderCompilers: Display: Shaders left to compile 16
+[2022.05.28-23.47.48:120][695]LogShaderCompilers: Display: Shaders left to compile 15
+[2022.05.28-23.47.48:120][695]LogShaderCompilers: Display: Shaders left to compile 14
+[2022.05.28-23.47.48:120][695]LogShaderCompilers: Display: Shaders left to compile 13
+[2022.05.28-23.47.48:120][695]LogShaderCompilers: Display: Shaders left to compile 12
+[2022.05.28-23.47.48:120][695]LogShaderCompilers: Display: Shaders left to compile 11
+[2022.05.28-23.47.48:120][695]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.05.28-23.47.48:120][695]LogShaderCompilers: Display: Shaders left to compile 9
+[2022.05.28-23.47.48:120][695]LogShaderCompilers: Display: Shaders left to compile 8
+[2022.05.28-23.47.48:120][695]LogShaderCompilers: Display: Shaders left to compile 7
+[2022.05.28-23.47.48:120][695]LogShaderCompilers: Display: Shaders left to compile 6
+[2022.05.28-23.47.48:130][695]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2022.05.28-23.47.48:132][695]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2022.05.28-23.47.48:134][695]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.05.28-23.47.48:136][695]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.05.28-23.47.48:138][695]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2022.05.28-23.47.48:140][695]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2022.05.28-23.47.48:141][695]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2022.05.28-23.47.49:606][856]LogShaderCompilers: Display: Shaders left to compile 19
+[2022.05.28-23.47.49:606][856]LogShaderCompilers: Display: Shaders left to compile 18
+[2022.05.28-23.47.49:606][856]LogShaderCompilers: Display: Shaders left to compile 17
+[2022.05.28-23.47.49:656][862]LogShaderCompilers: Display: Shaders left to compile 16
+[2022.05.28-23.47.49:656][862]LogShaderCompilers: Display: Shaders left to compile 15
+[2022.05.28-23.47.49:664][863]LogShaderCompilers: Display: Shaders left to compile 14
+[2022.05.28-23.47.49:690][866]LogShaderCompilers: Display: Shaders left to compile 13
+[2022.05.28-23.47.49:707][868]LogShaderCompilers: Display: Shaders left to compile 12
+[2022.05.28-23.47.49:715][869]LogShaderCompilers: Display: Shaders left to compile 11
+[2022.05.28-23.47.49:742][872]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.05.28-23.47.49:751][873]LogShaderCompilers: Display: Shaders left to compile 9
+[2022.05.28-23.47.50:226][929]LogShaderCompilers: Display: Shaders left to compile 8
+[2022.05.28-23.47.50:245][931]LogShaderCompilers: Display: Shaders left to compile 7
+[2022.05.28-23.47.50:274][934]LogShaderCompilers: Display: Shaders left to compile 6
+[2022.05.28-23.47.50:284][935]LogShaderCompilers: Display: Shaders left to compile 5
+[2022.05.28-23.47.50:284][935]LogShaderCompilers: Display: Shaders left to compile 4
+[2022.05.28-23.47.50:284][935]LogShaderCompilers: Display: Shaders left to compile 3
+[2022.05.28-23.47.50:284][935]LogShaderCompilers: Display: Shaders left to compile 2
+[2022.05.28-23.47.50:292][936]LogShaderCompilers: Display: Shaders left to compile 1
+[2022.05.28-23.47.50:672][980]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.05.28-23.47.50:672][980]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.05.28-23.47.50:672][980]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2022.05.28-23.47.50:672][980]MaterialEditorStats: Texture samplers: 8/16
+[2022.05.28-23.47.50:672][980]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2022.05.28-23.47.50:672][980]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.28-23.50.34:326][655]LogEditorFactories: Performing atomic reimport of [E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/FBX/Props/SM_Tube_X3.fbx]
+[2022.05.28-23.50.34:353][655]LogFbx: Loading FBX Scene from E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/FBX/Props/SM_Tube_X3.fbx
+[2022.05.28-23.50.34:357][655]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.28-23.50.34:361][655]LogFbx: Warning: Triangulating static mesh x
+[2022.05.28-23.50.34:364][655]LogFbx: Warning: Triangulating mesh UCX_x for collision model
+[2022.05.28-23.50.34:404][655]LogStaticMesh: Building static mesh SM_Tube_X3...
+[2022.05.28-23.50.34:409][655]LogStaticMesh: Built static mesh [0.00s] /Game/Mini_Golf/Meshes/Components/SM_Tube_X3.SM_Tube_X3
+[2022.05.28-23.50.34:417][655]LogEditorFactories: -- imported successfully
+[2022.05.28-23.53.14:890][169]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.28-23.53.17:556][423]LogEditorFactories: Performing atomic reimport of [E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/FBX/Props/SM_Tube_X3.fbx]
+[2022.05.28-23.53.17:575][423]LogFbx: Loading FBX Scene from E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/FBX/Props/SM_Tube_X3.fbx
+[2022.05.28-23.53.17:579][423]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.28-23.53.17:581][423]LogFbx: Warning: Triangulating static mesh x2
+[2022.05.28-23.53.17:589][423]LogFbx: Warning: Triangulating mesh UCX_x2 for collision model
+[2022.05.28-23.53.17:642][423]LogStaticMesh: Building static mesh SM_Tube_X3...
+[2022.05.28-23.53.17:652][423]LogStaticMesh: Built static mesh [0.01s] /Game/Mini_Golf/Meshes/Components/SM_Tube_X3.SM_Tube_X3
+[2022.05.28-23.53.17:661][423]LogEditorFactories: -- imported successfully
+[2022.05.28-23.53.18:716][540]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Mini_Golf/Meshes/Components/SM_Tube_X3.SM_Tube_X3
+[2022.05.28-23.53.29:297][774]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.28-23.53.30:644][931]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.28-23.53.33:716][292]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.28-23.53.45:211][493]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/Overview_Auto48A3AAB4B424E950F87B07FB6E8B22F7C.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/Autosaves/Game/Mini_Golf/Levels/Overview_Auto4.umap'
+[2022.05.28-23.53.45:212][493]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Mini_Golf/Levels/Overview' took 0.071
+[2022.05.28-23.53.45:212][493]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.071
+[2022.05.28-23.53.45:214][493]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mini_Golf/Meshes/Components/SM_Tube_X3] ([1] browsable assets)...
+[2022.05.28-23.53.45:220][493]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mini_Golf/Meshes/Components/SM_Tube_X3.SM_Tube_X3]
+[2022.05.28-23.53.45:220][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mini_Golf/Meshes/Components/SM_Tube_X3]
+[2022.05.28-23.53.45:248][493]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/SM_Tube_X3_Auto4C45C550B4C3CA6EEC53D18B9DD7CC0D4.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/Autosaves/Game/Mini_Golf/Meshes/Components/SM_Tube_X3_Auto4.uasset'
+[2022.05.28-23.53.45:248][493]LogFileHelpers: Auto-saving content packages took 0.035
+[2022.05.28-23.57.53:848][274]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.28-23.57.55:336][451]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2022.05.28-23.57.55:362][451]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.28-23.57.56:998][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tube_X1)
+[2022.05.28-23.57.57:706][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.28-23.57.58:921][864]LogEditorFactories: Performing atomic reimport of [E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/FBX/Props/SM_Tube_X1.fbx]
+[2022.05.28-23.57.58:947][864]LogFbx: Loading FBX Scene from E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/FBX/Props/SM_Tube_X1.fbx
+[2022.05.28-23.57.58:950][864]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.28-23.57.58:953][864]LogFbx: Warning: Triangulating static mesh X1
+[2022.05.28-23.57.58:956][864]LogFbx: Warning: Triangulating mesh UCX_X1 for collision model
+[2022.05.28-23.57.58:975][864]LogStaticMesh: Building static mesh SM_Tube_X1...
+[2022.05.28-23.57.58:979][864]LogStaticMesh: Built static mesh [0.00s] /Game/Mini_Golf/Meshes/Components/SM_Tube_X1.SM_Tube_X1
+[2022.05.28-23.57.58:984][864]LogEditorFactories: -- imported successfully
+[2022.05.28-23.58.01:104][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.28-23.58.07:733][865]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.28-23.58.13:866][598]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.28-23.58.20:840][433]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.28-23.58.31:917][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wood_Obstacle)
+[2022.05.28-23.58.33:353][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.05.28-23.58.38:694][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Hump_1)
+[2022.05.29-00.01.02:536][220]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.29-00.01.06:602][675]LogEditorFactories: Performing atomic reimport of [E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/FBX/Props/SM_Hump_1.fbx]
+[2022.05.29-00.01.06:628][675]LogFbx: Loading FBX Scene from E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/FBX/Props/SM_Hump_1.fbx
+[2022.05.29-00.01.06:631][675]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.29-00.01.06:635][675]LogFbx: Warning: Triangulating static mesh u1
+[2022.05.29-00.01.06:639][675]LogFbx: Warning: Triangulating mesh UCX_u1 for collision model
+[2022.05.29-00.01.06:681][675]LogStaticMesh: Building static mesh SM_Hump_1...
+[2022.05.29-00.01.06:686][675]LogStaticMesh: Built static mesh [0.00s] /Game/Mini_Golf/Meshes/Components/SM_Hump_1.SM_Hump_1
+[2022.05.29-00.01.06:694][675]LogEditorFactories: -- imported successfully
+[2022.05.29-00.01.09:404][985]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.29-00.01.12:319][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.29-00.01.12:470][337]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Mini_Golf/Meshes/Components/SM_Hump_1.SM_Hump_1
+[2022.05.29-00.01.22:947][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.29-00.01.23:077][575]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/SM_Hump_17485E31741A3766ACBDDF9BBD7ACF6D0.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Content/Mini_Golf/Meshes/Components/SM_Hump_1.uasset'
+[2022.05.29-00.01.25:529][866]LogSlate: Window 'SM_Hump_1' being destroyed
+[2022.05.29-00.01.25:533][866]LogSlate: Window 'SM_Hump_1' being destroyed
+[2022.05.29-00.01.27:748][ 61]Cmd: TRANSACTION UNDO
+[2022.05.29-00.01.27:748][ 61]LogEditorTransaction: Undo Move Actors
+[2022.05.29-00.01.59:445][855]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.29-00.01.59:994][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Small_Bridge)
+[2022.05.29-00.03.47:245][870]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/Overview_Auto585F7F486440B488899036F8A8118F289.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/Autosaves/Game/Mini_Golf/Levels/Overview_Auto5.umap'
+[2022.05.29-00.03.47:246][870]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Mini_Golf/Levels/Overview' took 0.074
+[2022.05.29-00.03.47:246][870]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.074
+[2022.05.29-00.03.47:248][870]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mini_Golf/Meshes/Components/SM_Tube_X1] ([1] browsable assets)...
+[2022.05.29-00.03.47:300][870]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mini_Golf/Meshes/Components/SM_Tube_X1.SM_Tube_X1]
+[2022.05.29-00.03.47:300][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mini_Golf/Meshes/Components/SM_Tube_X1]
+[2022.05.29-00.03.47:315][870]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/SM_Tube_X1_Auto5F8E5B6EE49F288812C8DCE8135B75275.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/Autosaves/Game/Mini_Golf/Meshes/Components/SM_Tube_X1_Auto5.uasset'
+[2022.05.29-00.03.47:316][870]LogFileHelpers: Auto-saving content packages took 0.068
+[2022.05.29-00.06.57:173][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.29-00.06.57:971][624]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Mini_Golf/Meshes/Components/SM_Small_Bridge.SM_Small_Bridge
+[2022.05.29-00.06.59:653][808]LogEditorFactories: Performing atomic reimport of [E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/FBX/Props/SM_Small_Bridge.fbx]
+[2022.05.29-00.06.59:679][808]LogFbx: Loading FBX Scene from E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/FBX/Props/SM_Small_Bridge.fbx
+[2022.05.29-00.06.59:682][808]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.29-00.06.59:685][808]LogFbx: Warning: Triangulating static mesh q1
+[2022.05.29-00.06.59:689][808]LogFbx: Warning: Triangulating mesh UCX_q1 for collision model
+[2022.05.29-00.06.59:713][808]LogStaticMesh: Building static mesh SM_Small_Bridge...
+[2022.05.29-00.06.59:717][808]LogStaticMesh: Built static mesh [0.00s] /Game/Mini_Golf/Meshes/Components/SM_Small_Bridge.SM_Small_Bridge
+[2022.05.29-00.07.01:196][808]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2022.05.29-00.07.01:201][808]LogEditorFactories: -- imported successfully
+[2022.05.29-00.07.07:626][557]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.29-00.07.14:343][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.29-00.07.14:458][372]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/SM_Small_BridgeFF24B1994B8B46144BC676A09A0C1531.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Content/Mini_Golf/Meshes/Components/SM_Small_Bridge.uasset'
+[2022.05.29-00.07.26:062][762]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2022.05.29-00.07.26:084][762]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.29-00.07.26:107][763]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2022.05.29-00.07.26:122][763]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.29-00.07.27:108][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.05.29-00.12.14:099][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bridge)
+[2022.05.29-00.12.15:783][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.29-00.12.18:055][717]LogEditorFactories: Performing atomic reimport of [E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/FBX/Props/SM_Bridge.fbx]
+[2022.05.29-00.12.18:085][717]LogFbx: Loading FBX Scene from E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/FBX/Props/SM_Bridge.fbx
+[2022.05.29-00.12.18:088][717]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.29-00.12.18:092][717]LogFbx: Warning: Triangulating static mesh BRIDGE1
+[2022.05.29-00.12.18:103][717]LogFbx: Warning: Triangulating mesh UCX_BRIDGE1 for collision model
+[2022.05.29-00.12.18:143][717]LogStaticMesh: Building static mesh SM_Bridge...
+[2022.05.29-00.12.18:155][717]LogStaticMesh: Built static mesh [0.01s] /Game/Mini_Golf/Meshes/Components/SM_Bridge.SM_Bridge
+[2022.05.29-00.12.19:931][717]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2022.05.29-00.12.19:935][717]LogEditorFactories: -- imported successfully
+[2022.05.29-00.12.48:494][ 37]LogEditorFactories: Performing atomic reimport of [E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/FBX/Props/SM_Bridge.fbx]
+[2022.05.29-00.12.48:511][ 37]LogFbx: Loading FBX Scene from E:/Daniele/MAYA Progetti/Marketplace_UE/MINI GOLF/UE4/FBX/Props/SM_Bridge.fbx
+[2022.05.29-00.12.48:515][ 37]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.29-00.12.48:516][ 37]LogFbx: Warning: Triangulating static mesh BRIDGE1
+[2022.05.29-00.12.48:525][ 37]LogFbx: Warning: Triangulating mesh UCX_BRIDGE1 for collision model
+[2022.05.29-00.12.48:562][ 37]LogStaticMesh: Building static mesh SM_Bridge...
+[2022.05.29-00.12.48:573][ 37]LogStaticMesh: Built static mesh [0.01s] /Game/Mini_Golf/Meshes/Components/SM_Bridge.SM_Bridge
+[2022.05.29-00.12.48:581][ 37]LogEditorFactories: -- imported successfully
+[2022.05.29-00.13.02:512][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bridge)
+[2022.05.29-00.13.03:182][776]Cmd: DELETE
+[2022.05.29-00.13.03:182][776]Cmd: ACTOR DELETE
+[2022.05.29-00.13.03:190][776]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.29-00.13.03:216][776]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2022.05.29-00.13.03:592][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.29-00.13.03:709][833]LogActorFactory: Actor Factory created SM_Bridge
+[2022.05.29-00.13.04:988][985]LogActorFactory: Actor Factory created SM_Bridge
+[2022.05.29-00.13.11:290][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.05.29-00.13.12:193][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.29-00.13.15:488][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bridge)
+[2022.05.29-00.13.21:991][  3]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.29-00.13.23:941][234]Cmd: TRANSACTION UNDO
+[2022.05.29-00.13.23:941][234]LogEditorTransaction: Undo Replace component used material
+[2022.05.29-00.13.25:148][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.29-00.13.25:297][379]LogAssetEditorManager: Opening Asset editor for Material /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial
+[2022.05.29-00.13.25:298][379]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. 
+[2022.05.29-00.13.25:336][379]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2022.05.29-00.13.25:374][379]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2022.05.29-00.13.25:403][379]LogShaderCompilers: Display: Shaders left to compile 93
+[2022.05.29-00.13.25:403][379]LogShaderCompilers: Display: Shaders left to compile 92
+[2022.05.29-00.13.25:403][379]LogShaderCompilers: Display: Shaders left to compile 91
+[2022.05.29-00.13.25:403][379]LogShaderCompilers: Display: Shaders left to compile 90
+[2022.05.29-00.13.25:403][379]LogShaderCompilers: Display: Shaders left to compile 89
+[2022.05.29-00.13.25:403][379]LogShaderCompilers: Display: Shaders left to compile 88
+[2022.05.29-00.13.25:403][379]LogShaderCompilers: Display: Shaders left to compile 87
+[2022.05.29-00.13.25:403][379]LogShaderCompilers: Display: Shaders left to compile 86
+[2022.05.29-00.13.25:403][379]LogShaderCompilers: Display: Shaders left to compile 85
+[2022.05.29-00.13.25:403][379]LogShaderCompilers: Display: Shaders left to compile 84
+[2022.05.29-00.13.25:403][379]LogShaderCompilers: Display: Shaders left to compile 83
+[2022.05.29-00.13.25:403][379]LogShaderCompilers: Display: Shaders left to compile 82
+[2022.05.29-00.13.25:403][379]LogShaderCompilers: Display: Shaders left to compile 81
+[2022.05.29-00.13.25:403][379]LogShaderCompilers: Display: Shaders left to compile 80
+[2022.05.29-00.13.25:403][379]LogShaderCompilers: Display: Shaders left to compile 79
+[2022.05.29-00.13.25:403][379]LogShaderCompilers: Display: Shaders left to compile 78
+[2022.05.29-00.13.25:415][379]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2022.05.29-00.13.25:417][379]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2022.05.29-00.13.25:420][379]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2022.05.29-00.13.25:421][379]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_6, compiling. 
+[2022.05.29-00.13.25:423][379]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2022.05.29-00.13.26:705][379]LogShaderCompilers: Display: Shaders left to compile 87
+[2022.05.29-00.13.26:722][379]LogShaderCompilers: Display: Shaders left to compile 86
+[2022.05.29-00.13.26:739][379]LogShaderCompilers: Display: Shaders left to compile 85
+[2022.05.29-00.13.26:807][379]LogShaderCompilers: Display: Shaders left to compile 84
+[2022.05.29-00.13.26:824][379]LogShaderCompilers: Display: Shaders left to compile 83
+[2022.05.29-00.13.26:858][379]LogShaderCompilers: Display: Shaders left to compile 82
+[2022.05.29-00.13.26:858][379]LogShaderCompilers: Display: Shaders left to compile 81
+[2022.05.29-00.13.26:909][379]LogShaderCompilers: Display: Shaders left to compile 80
+[2022.05.29-00.13.26:909][379]LogShaderCompilers: Display: Shaders left to compile 79
+[2022.05.29-00.13.26:926][379]LogShaderCompilers: Display: Shaders left to compile 78
+[2022.05.29-00.13.26:943][379]LogShaderCompilers: Display: Shaders left to compile 77
+[2022.05.29-00.13.26:960][379]LogShaderCompilers: Display: Shaders left to compile 76
+[2022.05.29-00.13.26:978][379]LogShaderCompilers: Display: Shaders left to compile 75
+[2022.05.29-00.13.27:029][379]LogShaderCompilers: Display: Shaders left to compile 74
+[2022.05.29-00.13.27:080][379]LogShaderCompilers: Display: Shaders left to compile 73
+[2022.05.29-00.13.27:113][379]LogShaderCompilers: Display: Shaders left to compile 72
+[2022.05.29-00.13.27:131][379]LogShaderCompilers: Display: Shaders left to compile 71
+[2022.05.29-00.13.27:182][379]LogShaderCompilers: Display: Shaders left to compile 70
+[2022.05.29-00.13.27:182][379]LogShaderCompilers: Display: Shaders left to compile 69
+[2022.05.29-00.13.27:182][379]LogShaderCompilers: Display: Shaders left to compile 68
+[2022.05.29-00.13.27:182][379]LogShaderCompilers: Display: Shaders left to compile 67
+[2022.05.29-00.13.27:198][379]LogShaderCompilers: Display: Shaders left to compile 66
+[2022.05.29-00.13.27:215][379]LogShaderCompilers: Display: Shaders left to compile 65
+[2022.05.29-00.13.27:215][379]LogShaderCompilers: Display: Shaders left to compile 64
+[2022.05.29-00.13.27:265][379]LogShaderCompilers: Display: Shaders left to compile 63
+[2022.05.29-00.13.27:282][379]LogShaderCompilers: Display: Shaders left to compile 62
+[2022.05.29-00.13.27:332][379]LogShaderCompilers: Display: Shaders left to compile 61
+[2022.05.29-00.13.27:348][379]LogShaderCompilers: Display: Shaders left to compile 60
+[2022.05.29-00.13.27:417][379]LogShaderCompilers: Display: Shaders left to compile 59
+[2022.05.29-00.13.27:485][379]LogShaderCompilers: Display: Shaders left to compile 58
+[2022.05.29-00.13.27:502][379]LogShaderCompilers: Display: Shaders left to compile 57
+[2022.05.29-00.13.27:585][379]LogShaderCompilers: Display: Shaders left to compile 56
+[2022.05.29-00.13.27:602][379]LogShaderCompilers: Display: Shaders left to compile 55
+[2022.05.29-00.13.27:618][379]LogShaderCompilers: Display: Shaders left to compile 54
+[2022.05.29-00.13.27:635][379]LogShaderCompilers: Display: Shaders left to compile 53
+[2022.05.29-00.13.27:635][379]LogShaderCompilers: Display: Shaders left to compile 52
+[2022.05.29-00.13.27:635][379]LogShaderCompilers: Display: Shaders left to compile 51
+[2022.05.29-00.13.27:652][379]LogShaderCompilers: Display: Shaders left to compile 50
+[2022.05.29-00.13.27:652][379]LogSlate: Window 'Warning: Editing Default Material' being destroyed
+[2022.05.29-00.13.27:679][379]LogShaderCompilers: Display: Shaders left to compile 49
+[2022.05.29-00.13.27:739][380]LogShaderCompilers: Display: Shaders left to compile 48
+[2022.05.29-00.13.27:739][380]LogShaderCompilers: Display: Shaders left to compile 47
+[2022.05.29-00.13.27:739][380]LogShaderCompilers: Display: Shaders left to compile 46
+[2022.05.29-00.13.27:739][380]LogShaderCompilers: Display: Shaders left to compile 45
+[2022.05.29-00.13.27:798][386]LogShaderCompilers: Display: Shaders left to compile 44
+[2022.05.29-00.13.27:798][386]LogShaderCompilers: Display: Shaders left to compile 43
+[2022.05.29-00.13.27:806][387]LogShaderCompilers: Display: Shaders left to compile 42
+[2022.05.29-00.13.27:954][397]LogShaderCompilers: Display: Shaders left to compile 41
+[2022.05.29-00.13.28:125][411]LogShaderCompilers: Display: Shaders left to compile 40
+[2022.05.29-00.13.28:219][419]LogShaderCompilers: Display: Shaders left to compile 39
+[2022.05.29-00.13.28:391][436]LogShaderCompilers: Display: Shaders left to compile 38
+[2022.05.29-00.13.28:490][447]LogShaderCompilers: Display: Shaders left to compile 37
+[2022.05.29-00.13.28:564][455]LogShaderCompilers: Display: Shaders left to compile 36
+[2022.05.29-00.13.28:718][473]LogShaderCompilers: Display: Shaders left to compile 35
+[2022.05.29-00.13.28:718][473]LogShaderCompilers: Display: Shaders left to compile 34
+[2022.05.29-00.13.28:726][474]LogShaderCompilers: Display: Shaders left to compile 33
+[2022.05.29-00.13.28:767][479]LogShaderCompilers: Display: Shaders left to compile 32
+[2022.05.29-00.13.28:802][483]LogShaderCompilers: Display: Shaders left to compile 31
+[2022.05.29-00.13.28:829][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.29-00.13.28:918][497]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.05.29-00.13.28:977][504]LogShaderCompilers: Display: Shaders left to compile 29
+[2022.05.29-00.13.28:985][504]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Mini_Golf/Meshes/Components/SM_Bridge.SM_Bridge
+[2022.05.29-00.13.29:038][504]LogShaderCompilers: Display: Shaders left to compile 28
+[2022.05.29-00.13.29:038][504]LogShaderCompilers: Display: Shaders left to compile 27
+[2022.05.29-00.13.29:067][504]LogShaderCompilers: Display: Shaders left to compile 26
+[2022.05.29-00.13.29:068][504]LogShaderCompilers: Display: Shaders left to compile 25
+[2022.05.29-00.13.29:068][504]LogShaderCompilers: Display: Shaders left to compile 24
+[2022.05.29-00.13.29:093][504]LogShaderCompilers: Display: Shaders left to compile 23
+[2022.05.29-00.13.29:200][510]LogShaderCompilers: Display: Shaders left to compile 22
+[2022.05.29-00.13.29:203][511]LogShaderCompilers: Display: Shaders left to compile 21
+[2022.05.29-00.13.29:290][520]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.05.29-00.13.29:290][520]LogShaderCompilers: Display: Shaders left to compile 19
+[2022.05.29-00.13.29:290][520]LogShaderCompilers: Display: Shaders left to compile 18
+[2022.05.29-00.13.29:290][520]LogShaderCompilers: Display: Shaders left to compile 17
+[2022.05.29-00.13.29:372][530]LogShaderCompilers: Display: Shaders left to compile 16
+[2022.05.29-00.13.29:389][532]LogShaderCompilers: Display: Shaders left to compile 15
+[2022.05.29-00.13.29:406][534]LogShaderCompilers: Display: Shaders left to compile 14
+[2022.05.29-00.13.29:406][534]LogShaderCompilers: Display: Shaders left to compile 13
+[2022.05.29-00.13.29:430][537]LogShaderCompilers: Display: Shaders left to compile 12
+[2022.05.29-00.13.29:447][539]LogShaderCompilers: Display: Shaders left to compile 11
+[2022.05.29-00.13.29:513][547]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.05.29-00.13.29:522][548]LogShaderCompilers: Display: Shaders left to compile 9
+[2022.05.29-00.13.29:572][554]LogShaderCompilers: Display: Shaders left to compile 8
+[2022.05.29-00.13.29:648][563]LogShaderCompilers: Display: Shaders left to compile 7
+[2022.05.29-00.13.29:656][564]LogShaderCompilers: Display: Shaders left to compile 6
+[2022.05.29-00.13.29:681][567]LogShaderCompilers: Display: Shaders left to compile 5
+[2022.05.29-00.13.29:690][568]LogShaderCompilers: Display: Shaders left to compile 4
+[2022.05.29-00.13.29:698][569]LogShaderCompilers: Display: Shaders left to compile 3
+[2022.05.29-00.13.29:707][570]LogShaderCompilers: Display: Shaders left to compile 2
+[2022.05.29-00.13.29:722][572]LogShaderCompilers: Display: Shaders left to compile 1
+[2022.05.29-00.13.30:237][632]MaterialEditorStats: Base pass shader: 134 instructions
+[2022.05.29-00.13.30:237][632]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2022.05.29-00.13.30:237][632]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2022.05.29-00.13.30:237][632]MaterialEditorStats: Texture samplers: 5/16
+[2022.05.29-00.13.30:237][632]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.05.29-00.13.30:237][632]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.29-00.13.40:553][841]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.29-00.13.45:743][449]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.29-00.13.47:480][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.29-00.13.47:594][665]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/SM_Bridge5E9A82404B91566DA0DDF2BF28F5F948.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Content/Mini_Golf/Meshes/Components/SM_Bridge.uasset'
+[2022.05.29-00.13.48:958][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.29-00.13.49:067][841]LogSlate: Window 'SM_Bridge' being destroyed
+[2022.05.29-00.13.49:071][841]LogSlate: Window 'SM_Bridge' being destroyed
+[2022.05.29-00.14.00:041][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.29-00.14.01:237][136]LogSlate: Window 'Save Content' being destroyed
+[2022.05.29-00.14.01:254][136]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.29-00.14.01:423][136]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/Overview9867A2F245851280E8E2C08B5AA5DF80.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Content/Mini_Golf/Levels/Overview.umap'
+[2022.05.29-00.14.01:434][136]LogFileHelpers: Saving map 'Overview' took 0.162
+[2022.05.29-00.14.01:447][136]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/SM_Tube_X1468B52EE479528EA1A7384A2BC8876E4.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Content/Mini_Golf/Meshes/Components/SM_Tube_X1.uasset'
+[2022.05.29-00.14.01:477][136]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/SM_Tube_X3BCFAEC2F46560BEB381B98BCAC86E0EF.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Content/Mini_Golf/Meshes/Components/SM_Tube_X3.uasset'
+[2022.05.29-00.14.02:586][136]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/T_Pyramid_Metal_Wood_Obstacle_DD48973B14A2B3DD28FCF5F949B0D9FFD.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Content/Mini_Golf/Texture/T_Pyramid_Metal_Wood_Obstacle_D.uasset'
+[2022.05.29-00.14.03:699][136]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/T_Pyramid_Metal_Wood_Obstacle_MC5CCE277438B98149F4ACCA9CE28E25F.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Content/Mini_Golf/Texture/T_Pyramid_Metal_Wood_Obstacle_M.uasset'
+[2022.05.29-00.14.04:791][136]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/T_Pyramid_Metal_Wood_Obstacle_NFA8195704B4060A3C4179C9176DBE515.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Content/Mini_Golf/Texture/T_Pyramid_Metal_Wood_Obstacle_N.uasset'
+[2022.05.29-00.14.06:325][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.29-00.14.10:347][775]LogSavePackage: Moving '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Saved/Overview132E9BBE451CF4274C6ADDA80D6F081D.tmp' to '../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Content/Mini_Golf/Levels/Overview.umap'
+[2022.05.29-00.14.14:845][295]LogAIModule: Creating AISystem for world Presentation
+[2022.05.29-00.14.14:861][295]LogAssetEditorManager: Opening Asset editor for World /Game/Mini_Golf/Levels/Presentation.Presentation
+[2022.05.29-00.14.14:882][295]Cmd: MAP LOAD FILE="../../../../../../Users/Daniele/Documents/Unreal Projects/Mini_Golf 4.20/Content/Mini_Golf/Levels/Presentation.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.29-00.14.14:882][295]LightingResults: New page: Lighting Build
+[2022.05.29-00.14.14:882][295]LoadErrors: New page: Loading map: Presentation.umap
+[2022.05.29-00.14.14:889][295]MapCheck: New page: Map Check
+[2022.05.29-00.14.14:889][295]LightingResults: New page: Lighting Build
+[2022.05.29-00.14.14:965][295]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.29-00.14.14:992][295]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.29-00.14.15:056][295]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64,38ms to complete.
+[2022.05.29-00.14.15:056][295]LogFileHelpers: Loading map 'Presentation' took 0.176
+[2022.05.29-00.14.36:883][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.29-00.14.38:748][127]LogSlate: Window 'Mini_Golf - Unreal Editor' being destroyed
+[2022.05.29-00.14.38:908][128]Cmd: QUIT_EDITOR
+[2022.05.29-00.14.38:922][128]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.05.29-00.14.38:931][128]LogExit: Preparing to exit.
+[2022.05.29-00.14.39:188][128]LogExit: Editor shut down
+[2022.05.29-00.14.39:188][128]LogExit: Transaction tracking system shut down
+[2022.05.29-00.14.39:581][128]LogExit: Object subsystem successfully closed.
+[2022.05.29-00.14.39:614][128]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.05.29-00.14.39:618][128]LogD3D11RHI: Shutdown
+[2022.05.29-00.14.39:618][128]LogD3D11RHI: CleanupD3DDevice
+[2022.05.29-00.14.39:622][128]LogD3D11RHI: ~FD3D11DynamicRHI
+[2022.05.29-00.14.39:648][128]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (616)
+[2022.05.29-00.14.39:648][128]LogModuleManager: Shutting down and abandoning module MeshBuilder (614)
+[2022.05.29-00.14.39:648][128]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (612)
+[2022.05.29-00.14.39:648][128]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2022.05.29-00.14.39:648][128]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2022.05.29-00.14.39:648][128]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2022.05.29-00.14.39:649][128]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2022.05.29-00.14.39:649][128]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2022.05.29-00.14.39:649][128]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2022.05.29-00.14.39:650][128]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2022.05.29-00.14.39:650][128]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2022.05.29-00.14.39:650][128]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2022.05.29-00.14.39:651][128]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2022.05.29-00.14.39:651][128]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2022.05.29-00.14.39:651][128]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2022.05.29-00.14.39:651][128]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2022.05.29-00.14.39:651][128]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2022.05.29-00.14.39:651][128]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2022.05.29-00.14.39:651][128]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2022.05.29-00.14.39:651][128]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2022.05.29-00.14.39:651][128]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2022.05.29-00.14.39:651][128]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2022.05.29-00.14.39:651][128]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2022.05.29-00.14.39:651][128]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2022.05.29-00.14.39:651][128]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2022.05.29-00.14.39:652][128]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2022.05.29-00.14.39:652][128]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2022.05.29-00.14.39:652][128]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2022.05.29-00.14.39:652][128]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2022.05.29-00.14.39:652][128]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2022.05.29-00.14.39:653][128]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2022.05.29-00.14.39:653][128]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2022.05.29-00.14.39:653][128]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2022.05.29-00.14.39:653][128]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2022.05.29-00.14.39:653][128]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2022.05.29-00.14.39:653][128]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2022.05.29-00.14.39:653][128]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2022.05.29-00.14.39:653][128]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2022.05.29-00.14.39:653][128]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2022.05.29-00.14.39:653][128]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2022.05.29-00.14.39:653][128]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2022.05.29-00.14.39:653][128]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2022.05.29-00.14.39:653][128]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2022.05.29-00.14.39:653][128]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2022.05.29-00.14.39:653][128]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2022.05.29-00.14.39:653][128]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2022.05.29-00.14.39:654][128]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2022.05.29-00.14.39:654][128]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2022.05.29-00.14.39:655][128]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2022.05.29-00.14.39:655][128]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2022.05.29-00.14.39:655][128]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2022.05.29-00.14.39:655][128]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2022.05.29-00.14.39:655][128]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2022.05.29-00.14.39:655][128]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2022.05.29-00.14.39:655][128]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2022.05.29-00.14.40:458][128]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2022.05.29-00.14.40:458][128]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2022.05.29-00.14.40:458][128]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2022.05.29-00.14.40:458][128]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2022.05.29-00.14.40:458][128]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2022.05.29-00.14.40:458][128]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2022.05.29-00.14.40:459][128]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2022.05.29-00.14.40:459][128]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2022.05.29-00.14.40:459][128]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2022.05.29-00.14.40:459][128]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2022.05.29-00.14.40:459][128]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2022.05.29-00.14.40:459][128]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2022.05.29-00.14.40:459][128]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2022.05.29-00.14.40:460][128]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2022.05.29-00.14.40:460][128]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2022.05.29-00.14.40:460][128]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2022.05.29-00.14.40:460][128]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2022.05.29-00.14.40:460][128]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2022.05.29-00.14.40:461][128]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2022.05.29-00.14.40:461][128]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2022.05.29-00.14.40:461][128]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2022.05.29-00.14.40:461][128]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2022.05.29-00.14.40:516][128]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2022.05.29-00.14.40:516][128]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2022.05.29-00.14.40:516][128]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2022.05.29-00.14.40:518][128]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2022.05.29-00.14.40:518][128]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2022.05.29-00.14.40:518][128]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2022.05.29-00.14.40:519][128]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2022.05.29-00.14.40:519][128]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2022.05.29-00.14.40:519][128]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2022.05.29-00.14.40:519][128]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2022.05.29-00.14.40:521][128]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2022.05.29-00.14.40:521][128]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2022.05.29-00.14.40:521][128]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2022.05.29-00.14.40:521][128]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2022.05.29-00.14.40:522][128]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2022.05.29-00.14.40:522][128]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2022.05.29-00.14.40:522][128]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2022.05.29-00.14.40:523][128]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2022.05.29-00.14.40:523][128]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2022.05.29-00.14.40:523][128]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2022.05.29-00.14.40:523][128]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2022.05.29-00.14.40:523][128]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2022.05.29-00.14.40:523][128]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2022.05.29-00.14.40:523][128]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2022.05.29-00.14.40:523][128]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2022.05.29-00.14.40:523][128]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2022.05.29-00.14.40:523][128]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2022.05.29-00.14.40:523][128]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2022.05.29-00.14.40:524][128]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2022.05.29-00.14.40:524][128]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2022.05.29-00.14.40:524][128]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2022.05.29-00.14.40:524][128]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2022.05.29-00.14.40:707][128]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2022.05.29-00.14.40:708][128]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2022.05.29-00.14.40:708][128]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2022.05.29-00.14.40:708][128]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2022.05.29-00.14.40:708][128]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2022.05.29-00.14.40:708][128]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2022.05.29-00.14.40:708][128]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2022.05.29-00.14.40:708][128]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2022.05.29-00.14.40:708][128]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2022.05.29-00.14.40:708][128]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2022.05.29-00.14.40:708][128]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2022.05.29-00.14.40:708][128]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2022.05.29-00.14.40:708][128]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2022.05.29-00.14.40:708][128]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2022.05.29-00.14.40:709][128]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2022.05.29-00.14.40:709][128]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2022.05.29-00.14.40:709][128]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2022.05.29-00.14.40:709][128]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2022.05.29-00.14.40:712][128]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2022.05.29-00.14.40:712][128]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2022.05.29-00.14.40:712][128]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2022.05.29-00.14.40:712][128]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2022.05.29-00.14.40:712][128]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2022.05.29-00.14.40:712][128]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2022.05.29-00.14.40:712][128]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2022.05.29-00.14.40:712][128]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2022.05.29-00.14.40:712][128]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2022.05.29-00.14.40:712][128]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2022.05.29-00.14.40:712][128]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2022.05.29-00.14.40:712][128]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2022.05.29-00.14.40:713][128]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2022.05.29-00.14.40:713][128]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2022.05.29-00.14.40:714][128]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2022.05.29-00.14.40:714][128]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2022.05.29-00.14.40:714][128]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2022.05.29-00.14.40:714][128]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2022.05.29-00.14.40:714][128]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2022.05.29-00.14.40:714][128]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2022.05.29-00.14.40:714][128]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2022.05.29-00.14.40:714][128]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2022.05.29-00.14.40:714][128]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2022.05.29-00.14.40:715][128]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2022.05.29-00.14.40:715][128]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2022.05.29-00.14.40:715][128]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2022.05.29-00.14.40:716][128]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2022.05.29-00.14.40:716][128]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2022.05.29-00.14.40:716][128]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2022.05.29-00.14.40:716][128]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2022.05.29-00.14.40:716][128]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2022.05.29-00.14.40:716][128]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2022.05.29-00.14.40:716][128]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2022.05.29-00.14.40:717][128]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2022.05.29-00.14.40:717][128]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2022.05.29-00.14.40:717][128]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2022.05.29-00.14.40:717][128]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2022.05.29-00.14.40:717][128]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2022.05.29-00.14.40:717][128]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2022.05.29-00.14.40:717][128]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2022.05.29-00.14.40:717][128]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2022.05.29-00.14.40:818][128]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2022.05.29-00.14.40:923][128]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2022.05.29-00.14.40:923][128]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2022.05.29-00.14.40:923][128]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2022.05.29-00.14.40:923][128]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2022.05.29-00.14.40:923][128]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2022.05.29-00.14.40:923][128]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2022.05.29-00.14.40:924][128]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2022.05.29-00.14.40:925][128]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2022.05.29-00.14.40:925][128]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2022.05.29-00.14.40:925][128]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2022.05.29-00.14.40:925][128]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2022.05.29-00.14.40:925][128]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2022.05.29-00.14.40:926][128]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2022.05.29-00.14.40:926][128]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2022.05.29-00.14.40:926][128]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2022.05.29-00.14.40:926][128]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2022.05.29-00.14.40:926][128]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2022.05.29-00.14.40:926][128]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2022.05.29-00.14.40:928][128]LogModuleManager: Shutting down and abandoning module Media (243)
+[2022.05.29-00.14.40:934][128]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2022.05.29-00.14.40:934][128]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2022.05.29-00.14.40:934][128]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2022.05.29-00.14.40:934][128]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2022.05.29-00.14.40:934][128]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2022.05.29-00.14.40:934][128]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2022.05.29-00.14.40:934][128]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2022.05.29-00.14.40:934][128]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2022.05.29-00.14.40:935][128]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2022.05.29-00.14.40:935][128]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2022.05.29-00.14.40:935][128]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2022.05.29-00.14.40:935][128]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2022.05.29-00.14.40:936][128]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2022.05.29-00.14.40:936][128]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2022.05.29-00.14.40:936][128]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2022.05.29-00.14.40:936][128]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2022.05.29-00.14.40:937][128]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2022.05.29-00.14.40:937][128]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2022.05.29-00.14.40:938][128]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2022.05.29-00.14.40:938][128]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2022.05.29-00.14.40:939][128]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2022.05.29-00.14.40:939][128]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2022.05.29-00.14.40:939][128]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2022.05.29-00.14.40:940][128]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2022.05.29-00.14.40:940][128]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2022.05.29-00.14.40:940][128]LogModuleManager: Shutting down and abandoning module Core (188)
+[2022.05.29-00.14.40:940][128]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2022.05.29-00.14.40:940][128]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2022.05.29-00.14.40:940][128]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2022.05.29-00.14.40:940][128]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2022.05.29-00.14.40:940][128]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2022.05.29-00.14.40:940][128]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2022.05.29-00.14.40:940][128]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2022.05.29-00.14.40:940][128]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2022.05.29-00.14.40:940][128]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2022.05.29-00.14.40:941][128]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2022.05.29-00.14.40:941][128]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2022.05.29-00.14.40:941][128]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2022.05.29-00.14.40:964][128]LogDerivedDataCache: Shutdown
+[2022.05.29-00.14.40:964][128]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2022.05.29-00.14.40:964][128]LogXGEController: Cleaning working directory: C:/Users/Daniele/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.05.29-00.14.40:964][128]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2022.05.29-00.14.40:965][128]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2022.05.29-00.14.40:965][128]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2022.05.29-00.14.40:965][128]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2022.05.29-00.14.40:965][128]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2022.05.29-00.14.40:965][128]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2022.05.29-00.14.40:965][128]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2022.05.29-00.14.40:965][128]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2022.05.29-00.14.40:965][128]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2022.05.29-00.14.40:965][128]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2022.05.29-00.14.40:965][128]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2022.05.29-00.14.40:965][128]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2022.05.29-00.14.40:965][128]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2022.05.29-00.14.40:965][128]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2022.05.29-00.14.40:965][128]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2022.05.29-00.14.40:965][128]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2022.05.29-00.14.40:965][128]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2022.05.29-00.14.40:966][128]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2022.05.29-00.14.40:966][128]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2022.05.29-00.14.40:966][128]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2022.05.29-00.14.40:966][128]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2022.05.29-00.14.40:966][128]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2022.05.29-00.14.40:970][128]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2022.05.29-00.14.40:970][128]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2022.05.29-00.14.40:973][128]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2022.05.29-00.14.40:973][128]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2022.05.29-00.14.40:989][128]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2022.05.29-00.14.40:989][128]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2022.05.29-00.14.40:989][128]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2022.05.29-00.14.40:989][128]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2022.05.29-00.14.40:989][128]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2022.05.29-00.14.40:989][128]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2022.05.29-00.14.40:989][128]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2022.05.29-00.14.40:989][128]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2022.05.29-00.14.40:989][128]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2022.05.29-00.14.40:989][128]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2022.05.29-00.14.40:989][128]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2022.05.29-00.14.40:989][128]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2022.05.29-00.14.40:989][128]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2022.05.29-00.14.40:989][128]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2022.05.29-00.14.40:989][128]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2022.05.29-00.14.40:989][128]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2022.05.29-00.14.40:989][128]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2022.05.29-00.14.40:989][128]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2022.05.29-00.14.40:991][128]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2022.05.29-00.14.40:992][128]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2022.05.29-00.14.41:000][128]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2022.05.29-00.14.41:000][128]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.05.29-00.14.41:000][128]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1FFF4216-416F-05DE-D778-BA9FFC50A7C7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=0031fd9a44235c4e92948cbe30fe9d32%7C13143216216e4d83ba5b61082448a415%7Caf20c423-bf64-429b-84c3-c091ba5a26c5&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2022.05.29-00.14.41:017][128]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2022.05.29-00.14.41:018][128]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2022.05.29-00.14.41:018][128]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2022.05.29-00.14.41:018][128]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2022.05.29-00.14.41:018][128]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2022.05.29-00.14.41:018][128]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2022.05.29-00.14.41:018][128]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2022.05.29-00.14.41:018][128]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2022.05.29-00.14.41:018][128]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2022.05.29-00.14.41:018][128]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2022.05.29-00.14.41:018][128]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.05.29-00.14.41:019][128]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2022.05.29-00.14.41:019][128]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2022.05.29-00.14.41:019][128]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.05.29-00.14.41:019][128]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.05.29-00.14.41:020][128]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2022.05.29-00.14.41:020][128]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2022.05.29-00.14.41:020][128]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2022.05.29-00.14.41:020][128]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2022.05.29-00.14.41:020][128]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2022.05.29-00.14.41:020][128]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2022.05.29-00.14.41:020][128]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2022.05.29-00.14.41:021][128]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2022.05.29-00.14.41:021][128]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2022.05.29-00.14.41:021][128]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2022.05.29-00.14.41:021][128]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2022.05.29-00.14.41:021][128]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2022.05.29-00.14.41:021][128]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2022.05.29-00.14.41:021][128]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2022.05.29-00.14.41:021][128]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2022.05.29-00.14.41:030][128]LogExit: Exiting.
+[2022.05.29-00.14.41:033][128]Log file closed, 05/29/22 02:14:41
