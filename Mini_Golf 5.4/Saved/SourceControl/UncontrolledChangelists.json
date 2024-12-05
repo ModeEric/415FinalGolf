@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/theor/Downloads/Mini_Golf 4.20/Mini_Golf 4.20/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/theor/Downloads/Mini_Golf 4.20/Mini_Golf 4.20/Content/Mini_Golf/Levels/Overview.umap",
+				"C:/Users/theor/CS415/415FinalGolf/Mini_Golf 5.4/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/theor/CS415/415FinalGolf/Mini_Golf 5.4/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/theor/CS415/415FinalGolf/Mini_Golf 5.4/Content/Mini_Golf/Levels/LEVEL1.umap",
+				"C:/Users/theor/CS415/415FinalGolf/Mini_Golf 5.4/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/theor/CS415/415FinalGolf/Mini_Golf 5.4/Content/ThirdPerson/Blueprints/TimerWidget.uasset",
+				"C:/Users/theor/CS415/415FinalGolf/Mini_Golf 5.4/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"/Users/ericmodesitt/Desktop/modellll/Mini_Golf 5.4/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"/Users/ericmodesitt/Desktop/modellll/Mini_Golf 5.4/Content/Mini_Golf/Levels/LEVEL7.umap",
 				"/Users/ericmodesitt/Desktop/modellll/Mini_Golf 5.4/Content/Mini_Golf/Levels/LEVEL8.umap",
@@ -152,9 +160,7 @@
 				"C:/Users/User/Desktop/415FinalGolf-main/Mini_Golf 4.20/Mini_Golf 4.20/Content/ThirdPerson/SportsCar/Materials/Textures/T_SportsCar_Tire_N.uasset",
 				"C:/Users/User/Desktop/415FinalGolf-main/Mini_Golf 4.20/Mini_Golf 4.20/Content/ThirdPerson/SportsCar/Materials/Textures/T_SportsCar_Wheel_BC.uasset",
 				"C:/Users/User/Desktop/415FinalGolf-main/Mini_Golf 4.20/Mini_Golf 4.20/Content/ThirdPerson/SportsCar/Materials/Textures/T_SportsCar_Wheel_M.uasset",
-				"C:/Users/User/Desktop/415FinalGolf-main/Mini_Golf 4.20/Mini_Golf 4.20/Content/ThirdPerson/SportsCar/Materials/Textures/T_SportsCar_Wheel_N.uasset",
-				"C:/Users/theor/Downloads/Mini_Golf 4.20/Mini_Golf 4.20/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/theor/Downloads/Mini_Golf 4.20/Mini_Golf 4.20/Content/Mini_Golf/Levels/Overview.umap"
+				"C:/Users/User/Desktop/415FinalGolf-main/Mini_Golf 4.20/Mini_Golf 4.20/Content/ThirdPerson/SportsCar/Materials/Textures/T_SportsCar_Wheel_N.uasset"
 			]
 		}
 	]
